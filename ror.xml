@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://devxchange.io/</title>
+  <link>http://devxchange.io/</link>
+
+<item>
+     <link>http://devxchange.io/</link>
+     <title>Devxchange.io</title>
+     <description>Building open source tools and frameworks for developers</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://devxchange.io/logmetrics.html</link>
+     <title>Devxchange - LogMetrics Framework</title>
+     <description>Devxchange - LogMetrics Framework</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://devxchange.io/eclipse.html</link>
+     <title>Devxchange - Eclipse Plugins</title>
+     <description>Devxchange - Eclipse Plugins</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://devxchange.io/gradle.html</link>
+     <title>Devxchange - Gradle Plugins</title>
+     <description>Devxchange - Gradle Plugins</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://devxchange.io/contact.html</link>
+     <title>Devxchange - Contact</title>
+     <description>Devxchange - Contact</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://devxchange.io/index.html</link>
+     <title>Devxchange.io</title>
+     <description>Building open source tools and frameworks for developers</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
